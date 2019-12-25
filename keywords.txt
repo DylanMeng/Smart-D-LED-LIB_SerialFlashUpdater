@@ -1,12 +1,12 @@
 #######################################
-# Syntax Coloring Map For SDU
+# Syntax Coloring Map For SerialFlashUpdater
 #######################################
 
 #######################################
 # Datatypes (KEYWORD1)
 #######################################
 
-SDU	KEYWORD1
+SerialFlashUpdater	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
